@@ -9,5 +9,5 @@ This is a repository about a few information about me.
 - Gmail: ebardo.glynbryan1@gmail.com
 
 - Follow me:
-- Facebook: @Glyn Bryan Inguito Ebardo
-- Instagram: @itsGlynBryan
+- Facebook: https://web.facebook.com/Glynbryan.ebardo.1
+- Instagram: https://www.instagram.com/itsglynbryan/
